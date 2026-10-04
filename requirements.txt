@@ -1,0 +1,5 @@
+django
+djangorestframework
+psycopg2-binary       # Postgres
+python-dotenv         # .env config, same pattern as ClearWave
+python-decouple==3.8
